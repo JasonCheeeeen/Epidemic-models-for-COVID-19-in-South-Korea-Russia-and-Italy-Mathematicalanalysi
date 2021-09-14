@@ -8,3 +8,5 @@ Meanwhile to utilize US data to compare SQIARD with SIARD, and show the effects 
 ## Code
 In order to demonstrate the result of prediction,</br>
 i took three countries' data to show how we implement the data forecast by using the method of machine learning.
+
+[Data] (https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
